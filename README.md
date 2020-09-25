@@ -35,4 +35,4 @@ do. The rest is by the script. Enjoy! :)
 ## One more thing...
 
 If you use this script, I will be glad to see how you annoy people, so if it's possible, tag me in
- Twitter to watch the show :-) ([@iam-agf](https://twitter.com/iam-agf) )
+ Twitter to watch the show :-) ([@iam_agf](https://twitter.com/iam_agf) )
